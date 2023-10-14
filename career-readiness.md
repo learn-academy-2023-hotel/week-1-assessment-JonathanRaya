@@ -5,7 +5,9 @@ The LEARN program focuses on readying our students for a career in technology. T
 LinkedIn is the world's largest online professional networking community. An active presence on LinkedIn allows you to make professional connections, look for employment opportunities, connect with others who share your interests, and learn more about the tech industry.
 
 - Submit your "about me" statement:
+Hello! Im Jonathan, a full stack developer with a military background in logistics, responsible for throughput of thousands of personnel and sensitive equipment. As a developer I am excited about working together with a team and watching our ideas go from thoughts to a fully working program. My background in logistics makes me a better developer because it taught me how important it is to maintain meticulous attention to detail in order for operations to flow efficiently, which is an essential skill in the world of software development where precision is crucial.
 - Submit the link to your LinkedIn profile with a custom shortened url:
+www.linkedin.com/in/jonathan-raya
 
 Check the boxes below to certify that your LinkedIn contains:
 
